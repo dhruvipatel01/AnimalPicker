@@ -16,12 +16,11 @@ public class animalPicker {
 
 		if (answer.equalsIgnoreCase("cat")) {
 
-			System.out.println("CAT ASCII ART HERE");
+			System.out.println("                __        .-.\n             .-\"` .`\'.    /\\\\|\n     _(\\-/)_\" ,  .   ,\\  /\\\\\\/\n    {(#b^d#)} .   ./,  |/\\\\\\/\n    `-.(Y).-`  ,  |  , |\\.-`\n         /~/,_/~~~\\,__.-`\n        ////~    // ~\\\\\njgs   ==`==`   ==`   ==`");
 
 		} else if (answer.equalsIgnoreCase("dog")) {
 
-			System.out.println("DOG ASCII ART HERE");
-
+			System.out.println("     |\\_/|                  \n     | @ @   Woof! \n     |   <>              _  \n     |  _/\\------____ ((| |))\n     |               `--\' |   \n ____|_       ___|   |___.\' \n/_/_____/____/_______|");
 		} else {
 
 			System.out.println("That is not an option");
@@ -34,13 +33,13 @@ public class animalPicker {
 
 				if (answer2.equalsIgnoreCase("cat")) {
 
-					System.out.println("CAT ASCII ART HERE");
+					System.out.println("                __        .-.\n             .-\"` .`\'.    /\\\\|\n     _(\\-/)_\" ,  .   ,\\  /\\\\\\/\n    {(#b^d#)} .   ./,  |/\\\\\\/\n    `-.(Y).-`  ,  |  , |\\.-`\n         /~/,_/~~~\\,__.-`\n        ////~    // ~\\\\\njgs   ==`==`   ==`   ==`");
 					
 					break;
 					
 				} else if (answer2.equalsIgnoreCase("dog")) {
 
-					System.out.println("DOG ASCII ART HERE");
+					System.out.println("     |\\_/|                  \n     | @ @   Woof! \n     |   <>              _  \n     |  _/\\------____ ((| |))\n     |               `--\' |   \n ____|_       ___|   |___.\' \n/_/_____/____/_______|");
 					
 					break;
 
