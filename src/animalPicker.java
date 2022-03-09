@@ -21,7 +21,7 @@ public class animalPicker {
 			System.out.println("DOG ASCII ART HERE");
 			
 		}else {
-			System.out.println("That is not an option, try again.");
+			System.out.println("That is not an option");
 		}
 	}
 	
